@@ -1,0 +1,6 @@
+c:\users\owen\documents\visual studio 2015\Projects\BracketParsing\BracketParsing\bin\Debug\BracketParsing.exe.config
+c:\users\owen\documents\visual studio 2015\Projects\BracketParsing\BracketParsing\bin\Debug\BracketParsing.exe
+c:\users\owen\documents\visual studio 2015\Projects\BracketParsing\BracketParsing\bin\Debug\BracketParsing.pdb
+c:\users\owen\documents\visual studio 2015\Projects\BracketParsing\BracketParsing\obj\Debug\BracketParsing.csprojResolveAssemblyReference.cache
+c:\users\owen\documents\visual studio 2015\Projects\BracketParsing\BracketParsing\obj\Debug\BracketParsing.exe
+c:\users\owen\documents\visual studio 2015\Projects\BracketParsing\BracketParsing\obj\Debug\BracketParsing.pdb

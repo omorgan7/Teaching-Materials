@@ -1,0 +1,6 @@
+c:\users\owen\documents\visual studio 2015\Projects\Sieve\Sieve\bin\Debug\Sieve.exe.config
+C:\Users\Owen\documents\visual studio 2015\Projects\Sieve\Sieve\obj\Debug\Sieve.csprojResolveAssemblyReference.cache
+C:\Users\Owen\documents\visual studio 2015\Projects\Sieve\Sieve\bin\Debug\Sieve.exe
+C:\Users\Owen\documents\visual studio 2015\Projects\Sieve\Sieve\bin\Debug\Sieve.pdb
+C:\Users\Owen\documents\visual studio 2015\Projects\Sieve\Sieve\obj\Debug\Sieve.exe
+C:\Users\Owen\documents\visual studio 2015\Projects\Sieve\Sieve\obj\Debug\Sieve.pdb

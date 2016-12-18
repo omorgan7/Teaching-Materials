@@ -1,0 +1,6 @@
+c:\users\owen\documents\visual studio 2015\Projects\DistinctPrimeFactorisation\DistinctPrimeFactorisation\bin\Debug\DistinctPrimeFactorisation.exe.config
+C:\Users\Owen\documents\visual studio 2015\Projects\DistinctPrimeFactorisation\DistinctPrimeFactorisation\obj\Debug\DistinctPrimeFactorisation.csprojResolveAssemblyReference.cache
+C:\Users\Owen\documents\visual studio 2015\Projects\DistinctPrimeFactorisation\DistinctPrimeFactorisation\bin\Debug\DistinctPrimeFactorisation.exe
+C:\Users\Owen\documents\visual studio 2015\Projects\DistinctPrimeFactorisation\DistinctPrimeFactorisation\bin\Debug\DistinctPrimeFactorisation.pdb
+C:\Users\Owen\documents\visual studio 2015\Projects\DistinctPrimeFactorisation\DistinctPrimeFactorisation\obj\Debug\DistinctPrimeFactorisation.exe
+C:\Users\Owen\documents\visual studio 2015\Projects\DistinctPrimeFactorisation\DistinctPrimeFactorisation\obj\Debug\DistinctPrimeFactorisation.pdb

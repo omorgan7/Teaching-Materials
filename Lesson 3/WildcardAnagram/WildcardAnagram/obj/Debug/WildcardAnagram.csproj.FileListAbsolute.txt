@@ -1,0 +1,6 @@
+c:\users\owen\documents\visual studio 2015\Projects\WildcardAnagram\WildcardAnagram\bin\Debug\WildcardAnagram.exe.config
+c:\users\owen\documents\visual studio 2015\Projects\WildcardAnagram\WildcardAnagram\bin\Debug\WildcardAnagram.exe
+c:\users\owen\documents\visual studio 2015\Projects\WildcardAnagram\WildcardAnagram\bin\Debug\WildcardAnagram.pdb
+c:\users\owen\documents\visual studio 2015\Projects\WildcardAnagram\WildcardAnagram\obj\Debug\WildcardAnagram.csprojResolveAssemblyReference.cache
+c:\users\owen\documents\visual studio 2015\Projects\WildcardAnagram\WildcardAnagram\obj\Debug\WildcardAnagram.exe
+c:\users\owen\documents\visual studio 2015\Projects\WildcardAnagram\WildcardAnagram\obj\Debug\WildcardAnagram.pdb

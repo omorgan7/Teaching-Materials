@@ -1,0 +1,6 @@
+c:\users\owen\documents\visual studio 2015\Projects\random7\random7\bin\Debug\random7.exe.config
+c:\users\owen\documents\visual studio 2015\Projects\random7\random7\bin\Debug\random7.exe
+c:\users\owen\documents\visual studio 2015\Projects\random7\random7\bin\Debug\random7.pdb
+c:\users\owen\documents\visual studio 2015\Projects\random7\random7\obj\Debug\random7.csprojResolveAssemblyReference.cache
+c:\users\owen\documents\visual studio 2015\Projects\random7\random7\obj\Debug\random7.exe
+c:\users\owen\documents\visual studio 2015\Projects\random7\random7\obj\Debug\random7.pdb

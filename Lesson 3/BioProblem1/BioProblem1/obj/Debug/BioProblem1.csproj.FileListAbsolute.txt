@@ -1,0 +1,6 @@
+c:\users\owen\documents\visual studio 2015\Projects\BioProblem1\BioProblem1\bin\Debug\BioProblem1.exe.config
+c:\users\owen\documents\visual studio 2015\Projects\BioProblem1\BioProblem1\obj\Debug\BioProblem1.csprojResolveAssemblyReference.cache
+c:\users\owen\documents\visual studio 2015\Projects\BioProblem1\BioProblem1\bin\Debug\BioProblem1.exe
+c:\users\owen\documents\visual studio 2015\Projects\BioProblem1\BioProblem1\bin\Debug\BioProblem1.pdb
+c:\users\owen\documents\visual studio 2015\Projects\BioProblem1\BioProblem1\obj\Debug\BioProblem1.exe
+c:\users\owen\documents\visual studio 2015\Projects\BioProblem1\BioProblem1\obj\Debug\BioProblem1.pdb

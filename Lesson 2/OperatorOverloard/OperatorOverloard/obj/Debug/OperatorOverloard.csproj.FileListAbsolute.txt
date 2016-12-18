@@ -1,0 +1,6 @@
+c:\users\owen\documents\visual studio 2015\Projects\OperatorOverloard\OperatorOverloard\bin\Debug\OperatorOverloard.exe.config
+c:\users\owen\documents\visual studio 2015\Projects\OperatorOverloard\OperatorOverloard\bin\Debug\OperatorOverloard.exe
+c:\users\owen\documents\visual studio 2015\Projects\OperatorOverloard\OperatorOverloard\bin\Debug\OperatorOverloard.pdb
+c:\users\owen\documents\visual studio 2015\Projects\OperatorOverloard\OperatorOverloard\obj\Debug\OperatorOverloard.csprojResolveAssemblyReference.cache
+c:\users\owen\documents\visual studio 2015\Projects\OperatorOverloard\OperatorOverloard\obj\Debug\OperatorOverloard.exe
+c:\users\owen\documents\visual studio 2015\Projects\OperatorOverloard\OperatorOverloard\obj\Debug\OperatorOverloard.pdb
